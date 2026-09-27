@@ -1,4 +1,4 @@
-# Subly — SaaS Subscription Management App
+# Subly SaaS Subscription Management App
 
 A portfolio-ready subscription billing operations dashboard for SaaS businesses.
 
